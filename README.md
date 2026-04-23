@@ -185,7 +185,8 @@ Please take a look at the [Contribution Guidelines](https://github.com/meilisear
 * [Laravel Site Search](https://github.com/spatie/laravel-site-search/) - Create a full-text search index by crawling your site
 * [UIRecord](https://github.com/SaraVieira/uirecord) -  A UI to manage instances
 * [Meilisearch-UI](https://github.com/eyeix/meilisearch-ui) -  A dashboard / UI to manage instances
-* [Meilisearch Manager](https://github.com/Bwilliamson55/meili-manager) - A UI to manage instances
+* [Meili-Manager](https://github.com/Bwilliamson55/meili-manager) - A UI to manage instances
+* [Meilisearch Manager](https://github.com/connorabbas/meilisearch-manager-next) - A UI to manage instances
 * [Meiliadmin](https://github.com/kaermorchen/meiliadmin) - A dashboard for Meilisearch
 * [Meiliweb](https://github.com/bpolaszek/meiliweb) - Yet another dashboard / UI for Meilisearch
 * [Meilisearch TUI](https://github.com/sanders41/meilisearch-tui) - A text user interface for searching and managing Meilisearch from the terminal
