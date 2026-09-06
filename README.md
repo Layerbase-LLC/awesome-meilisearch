@@ -211,6 +211,7 @@ Please take a look at the [Contribution Guidelines](https://github.com/meilisear
 * [Where To Watch](https://github.com/meilisearch/demo-movies) - An application to help you find streaming platforms to watch movies
 * [Meilisearch x MoMA](https://github.com/meilisearch/demos/tree/main/src/MoMA) - Search through the Museum Of Modern Art Collection
 * [Search in Nobel Prizes with Meilisearch](https://github.com/meilisearch/demos/tree/main/src/nobel-prizes) - Search through all Nobel Prize winners and their details
+* [Meilisearch finds RubyGems](https://github.com/meilisearch/demos/tree/main/src/finding-rubygems) - Find Ruby gems
 * [Finding Crates](https://github.com/meilisearch/demos/tree/main/src/finding-crates) - Find Rust crates
 * [Meilisearch finds PyPI packages](https://github.com/meilisearch/demos/tree/main/src/finding-pypi) - Find Python packages
 * [Geosearch demo](https://github.com/meilisearch/demos/tree/main/src/geo-javascript) - Use Google Maps and Meilisearch to geo search across 30,000 cities
